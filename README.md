@@ -2,7 +2,7 @@
 
 <ins>**By:**</ins> Spencer Hao, Lucy Kopin, Margo Lewis
 
-<ins>**Blog post**</ins> *insert link here*
+<ins>**Blog post**</ins> (https://medium.com/@lewism2_11369/taylor-swift-analyzer-understanding-taylor-swift-over-time-66eb88e46aca)
 
 <ins>**Files:**</ins> </br>
 **Genius.ipynb </br>**

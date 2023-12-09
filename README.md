@@ -1,11 +1,10 @@
-# Taylor-Swift
+# Taylor Swift Big Data Project </br>
 
-Taylor Swift Big Data Project </br>
-By: Spencer Hao, Lucy Kopin, Margo Lewis
+<ins>**By:**</ins> Spencer Hao, Lucy Kopin, Margo Lewis
 
-Blog post: *insert link here*
+<ins>**Blog post**</ins> *insert link here*
 
-Files: </br>
+<ins>**Files:**</ins> </br>
 **Genius.ipynb </br>**
 Contains code to get lyrics from all of Taylor Swift's songs off of Genius. Creates a folder for each album with a file of lyrics for each song.
 
